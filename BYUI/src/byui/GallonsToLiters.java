@@ -2,7 +2,7 @@ package byui;
 
 /**
  *
- * @author Eric
+ * @author Eric Shewchuk
  */
 public class GallonsToLiters {
     public static void main(String[] args) {
